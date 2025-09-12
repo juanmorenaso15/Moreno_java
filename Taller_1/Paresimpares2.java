@@ -1,3 +1,4 @@
+package Taller_1;
 import java.util.Scanner;
 
 public class Paresimpares2 {
