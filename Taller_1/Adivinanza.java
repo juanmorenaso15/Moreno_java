@@ -27,8 +27,11 @@ public class Adivinanza {
             if(i==15){
                 System.out.print("Se te han acabado los intentos ");
             }
+            
         }
 
         scanner.close();
     }
 }
+
+
