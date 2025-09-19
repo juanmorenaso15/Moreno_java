@@ -1,4 +1,4 @@
-package Talle_4;
+package Taller_4;
 
 import java.util.Scanner;
 
